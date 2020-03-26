@@ -1,0 +1,2 @@
+# Caneca-Bot
+Hosting bot
